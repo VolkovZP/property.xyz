@@ -6,7 +6,7 @@ import { StyledTitle } from "../../styles/Title.styles";
 const Title = () => {
   return (
     <StyledTitle>
-      <h1>
+      <h1 style={{ color: 'green' }}>
         Check your free instant property valuation in less than 30 seconds
       </h1>
       <h2>
