@@ -1,0 +1,9 @@
+.container {
+  height: 200px;
+  background-color: antiquewhite;
+  position: absolute;
+  z-index: 50;
+  @media (min-width: 320px) {
+    background-color: green;
+  }
+}
